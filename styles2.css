@@ -1,0 +1,20 @@
+body{
+	background-image: url(Portal-de-Ingreso-eldiaguita.jpg);
+	}
+.contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+h1{
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 4px solid red;
+	border-right: 4px solid red;
+	width:400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888
+	}
+	p{
+		color : green;
+	}
